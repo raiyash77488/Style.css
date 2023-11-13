@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(219, 203, 203);
+}
+
+p{
+    background-color: red;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#Paragraph2{
+    background-color: green;
+    font-size: 30px;
+}
+ 
+.para{
+    background-color: blue;
+}
+
+p{
+    background-color: cyan;
+}
+
+#Paragraph2{
+    background-color: yellow;
+    font-size: 50px;
+}
+
+#Paragraph2{
+    background-color: green;
+    font-size: 50px;
+}
+ 
+
